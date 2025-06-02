@@ -1,0 +1,4 @@
+fastapi[all]
+qdrant-client==1.11.3 
+requests
+pydantic
